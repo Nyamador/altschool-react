@@ -1,27 +1,27 @@
-import "./App.css"
-import React from "react"
-import Groceries from "./components/Groceries"
-import DateComponent from "./components/DateComponent"
+import React from 'react';
+import './App.css';
+import Counter from './components/Counter';
+import GitHubUser from './components/GitHubUser';
+import Greeting from './components/Greeting';
+
+// console.log(React.useState)
+
+
+
+
 
 function App() {
   return (
     <>
       <p>My name is Desmond</p>
       <div>
-        <DateComponent />
-
-        <Groceries />
+        <Greeting />
+        <Greeting />
+        <Counter />
+        <GitHubUser />
       </div>
     </>
-  )
+  );
 }
 
-{
-  /* <button>Hello</button>
-      <p>World</p> */
-}
-{
-  /* <DateComponent />
-      <Groceries /> */
-}
-export default App
+export default App;
