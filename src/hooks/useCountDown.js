@@ -1,9 +1,9 @@
 // TODO: example and test
 import { useCallback } from 'react';
 
-import { useInterval } from '../useInterval';
-import { useBoolean } from './useBoolean';
-import { useCounter } from './useCounter';
+import useBoolean from './useBoolean';
+import useCounter from './useCounter';
+import useInterval from './useInterval';
 
 function useCountdown(countdownOption) {
   let countStart, intervalMs, isIncrement, countStop;
