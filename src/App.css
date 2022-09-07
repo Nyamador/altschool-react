@@ -1,0 +1,16 @@
+p {
+  margin: 5px;
+}
+.card-details .card-name {
+  font-size: 24px;
+  line-height: 1.25;
+}
+.card-details .card-username {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 24px;
+  color: #57606a;
+}
+.card-details .card-bio {
+}
