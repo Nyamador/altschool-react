@@ -4,7 +4,7 @@ import useInterval from '../hooks/useInterval';
 
 export default function Interval() {
   // The counter
-  const [count, setCount] = useState(0);
+  const [count, setCount] = useState(Date.now());
   // Dynamic delay
   const [delay, setDelay] = useState(1000);
   // ON/OFF
@@ -25,7 +25,7 @@ export default function Interval() {
 
   return (
     <>
-      <h1>{count}</h1>
+      <h1>{new Date().toISOString()}</h1>
       <button onClick={() => setPlaying(!isPlaying)}>
         {isPlaying ? 'pause' : 'play'}
       </button>

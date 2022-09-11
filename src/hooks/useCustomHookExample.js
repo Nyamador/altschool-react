@@ -24,7 +24,7 @@ export default function useCustomHook(type) {
     }
   }, [type])
 
-  return data
-  // return [data]
-  // return {data}
+  // return data
+  // return [data, setData]
+  return {data, setData}
 }
