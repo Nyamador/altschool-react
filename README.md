@@ -12,7 +12,7 @@ on the introductiory class, he also mentioned importing, exporting and using our
 (link to the doc he shared here)[https://javascript.info/import-export]
 
 ######  Month 1 Week 2:
-Installing create-react-app
+###### Installing create-react-app
 
 This class focuses us on installing and creating react app on our local machine
 (link to create react app)[https://create-react-app.dev/]
@@ -33,7 +33,7 @@ as the classes proceeds he breaks down the concept of states and using states in
 ![github-readme-question](https://user-images.githubusercontent.com/64507182/190521102-d7ad57e2-31de-437a-9d8e-f657d8012856.png)
 
 ######  Month 1 Week 4:
-Hooks in React 
+###### Hooks in React 
 
 [Mr Desmond](https://github.com/nyamador/) and [Mr Oluwasetemi](https://github.com/Oluwasetemi) further use a little counter game of incrementing and decremeting to explain some basic react concepts, which includes the useState hook, useEffect and so on, further docs below
 [useEffect](https://reactjs.org/docs/hooks-effect.html)
@@ -42,7 +42,7 @@ Hooks in React
 [find code here](https://replit.com/@Oluwasetemi/understanding-usefetch?v=1#src/App.jsx)
 
 ######  Month 2 Week 1:
-Hooks contd
+###### Hooks contd
 
 Further classes focus on React router dom, React router dom as a third party library for rounting pages in our React Application. It was explained deeply with examples by the instructor @oluwasetemi, he touches installing the library itself in our app using ```npm install react-router-dom which download other dependencies for us
 He went further to explain importing and using with the elements that are provided to us by the library, such as <Routes />, <Link /> , <Navlink /> 
