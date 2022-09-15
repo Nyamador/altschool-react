@@ -63,8 +63,8 @@ further link he shared, Input valid github account name
 [see here](https://stackblitz.com/edit/vitejs-vite-fdk26g?file=src%2FApp.jsx)
 
 
- **further explanations he made in the last class includes**
-  -composition vs inheritance using ```props.children and managing layouts in our Application-
+ **further explanations he made in the last class includes **
+  - composition vs inheritance using `props.children` and managing layouts in our Application-
 
 [find doc and code examples here](https://reactjs.org/docs/composition-vs-inheritance.html)
 
