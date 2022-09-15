@@ -49,8 +49,8 @@ He went further to explain importing and using with the elements that are provid
 
 [The doc he was using in class](https://reactrouter.com/en/main)
 
-**he further hooks provided by the third party router **
-He explained with code example the 
+**he further hooks provided by the third party router**
+He explained with code example the following
 - useLocation 
 - useParams 
 - useNavigate 
