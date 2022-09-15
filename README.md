@@ -9,13 +9,13 @@ During the Intoructory lectures to React @Oluwasetemi break down bundling of bas
 
 
 on the introductiory class, he also mentioned importing, exporting and using our bundled app 
-(link to the doc he shared here)[https://javascript.info/import-export]
+[link to the doc he shared here](https://javascript.info/import-export)
 
 ######  Month 1 Week 2:
 ###### Installing create-react-app
 
 This class focuses us on installing and creating react app on our local machine
-(link to create react app)[https://create-react-app.dev/]
+[link to create react app](https://create-react-app.dev/)
 
 as the class proceeds he explain creating components in react, Writing markup with JSX in React. which is just plain javascript and html in react, Importing and Exporting Components, Passing props to a components, Conditional rendering he makes further code examples writting basic jsx elements and rendering them in our react app
 
