@@ -1,70 +1,88 @@
-# Getting Started with Create React App
+## AltSchoolers Frontend Engineering React live class
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Catch the update of live classes by the instructors [Mr Oluwasetemi](https://github.com/Oluwasetemi) and [Mr Desmond](https://github.com/nyamador/) on this Repo and the available links shared in class
 
-## Available Scripts
+######  Month 1 Week 1:
+Introduction to React. LMS contd class
+During the Intoructory lectures to React @Oluwasetemi break down bundling of basic javascript app before React, and delves a little into webpack
+[Webpack](https://webpack.js.org/)
 
-In the project directory, you can run:
 
-### `yarn start`
+on the introductiory class, he also mentioned importing, exporting and using our bundled app 
+[link to the doc he shared here](https://javascript.info/import-export)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+######  Month 1 Week 2:
+###### Installing create-react-app
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This class focuses us on installing and creating react app on our local machine
+[link to create react app](https://create-react-app.dev/)
 
-### `yarn test`
+as the class proceeds he explain creating components in react, Writing markup with JSX in React. which is just plain javascript and html in react, Importing and Exporting Components, Passing props to a components, Conditional rendering he makes further code examples writting basic jsx elements and rendering them in our react app
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+> He further explain the concept of component and how react is component based library for UI rendering
+[view class here](#)
 
-### `yarn build`
+######  Month 1 Week 3:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+as the classes proceeds he breaks down the concept of states and using states in React, as continuation of the classes on the schol LMS documentation guide below
+[States and managing state in React](https://beta.reactjs.org/learn/managing-state)
+[Getting started with state](https://reactjs.org/docs/state-and-lifecycle.html)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+###### some self assesment questions from the instructor posted on frontend engineering slack channel 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![github-readme-question](https://user-images.githubusercontent.com/64507182/190521102-d7ad57e2-31de-437a-9d8e-f657d8012856.png)
 
-### `yarn eject`
+######  Month 1 Week 4:
+###### Hooks in React 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+[Mr Desmond](https://github.com/nyamador/) and [Mr Oluwasetemi](https://github.com/Oluwasetemi) further use a little counter game of incrementing and decremeting to explain some basic react concepts, which includes the useState hook, useEffect and so on, further docs below
+[useEffect](https://reactjs.org/docs/hooks-effect.html)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+[Mr Setemi](https://github.com/Oluwasetemi) further focuses on creating and using custom hooks in react with code examples
+[find code here](https://replit.com/@Oluwasetemi/understanding-usefetch?v=1#src/App.jsx)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+######  Month 2 Week 1:
+###### Hooks contd
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Further classes focus on React router dom, React router dom as a third party library for rounting pages in our React Application. It was explained deeply with examples by the instructor @oluwasetemi, he touches installing the library itself in our app using ```npm install react-router-dom which download other dependencies for us
+He went further to explain importing and using with the elements that are provided to us by the library, such as <Routes />, <Link /> , <Navlink /> 
 
-## Learn More
+[The doc he was using in class](https://reactrouter.com/en/main)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**he further hooks provided by the third party router**
+He explained with code example the following
+- useLocation 
+- useParams 
+- useNavigate 
+- useOutlet
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[view code here](https://stackblitz.com/edit/vitejs-vite-hswavt?file=src%2FApp.jsx)
+[further link](https://replit.com/@Oluwasetemi/understanding-usefetch?v=1#src/App.jsx)
 
-### Code Splitting
+further link he shared, Input valid github account name 
+[see here](https://stackblitz.com/edit/vitejs-vite-fdk26g?file=src%2FApp.jsx)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+ **further explanations he made in the last class includes **
+  - composition vs inheritance using `props.children` and managing layouts in our Application-
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+[find doc and code examples here](https://reactjs.org/docs/composition-vs-inheritance.html)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+######  Getting Started with this Repo
 
-### Advanced Configuration
+Fork the project to a new repositery
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+cd to the project directory
+`code .` to open in your vscode
 
-### Deployment
+ ```
+  yarn start or
+  `npm start` to run the app on your local
+ ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+navigate to [localhost:3000](http://localhost:3000) on your browser.
 
-### `yarn build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project was bootstrapped with [create react app](https://github.com/facebook/create-react-app).
+
