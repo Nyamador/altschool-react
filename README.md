@@ -49,7 +49,7 @@ He went further to explain importing and using with the elements that are provid
 
 [The doc he was using in class](https://reactrouter.com/en/main)
 
-**he further hooks provided by the third party router**
+**he further hooks provided by the third party router** <br/>
 He explained with code example the following
 - useLocation 
 - useParams 
@@ -63,7 +63,7 @@ further link he shared, Input valid github account name
 [see here](https://stackblitz.com/edit/vitejs-vite-fdk26g?file=src%2FApp.jsx)
 
 
- **further explanations he made in the last class includes **
+ **further explanations he made in the last class includes ** <br/>
   - composition vs inheritance using `props.children` and managing layouts in our Application-
 
 [find doc and code examples here](https://reactjs.org/docs/composition-vs-inheritance.html)
@@ -71,7 +71,7 @@ further link he shared, Input valid github account name
 
 ######  Getting Started with this Repo
 
-Fork the project to a new repositery
+Fork the project to a new repositery<br/>
 clone the repo on your terminal
 
 cd to the project directory
