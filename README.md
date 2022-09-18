@@ -4,7 +4,7 @@ Catch the update of live classes by the instructors [Mr Oluwasetemi](https://git
 
 ######  Month 1 Week 1:
 Introduction to React. LMS contd class
-During the Intoructory lectures to React @Oluwasetemi break down bundling of basic javascript app before React, and delves a little into webpack
+During the Introductory lectures to React [Mr Oluwasetemi](https://github.com/Oluwasetemi) break down how bundling of basic javascript app works before the team at facebook created the React, and he delves a little into webpack
 [Webpack](https://webpack.js.org/)
 
 
@@ -35,10 +35,10 @@ as the classes proceeds he breaks down the concept of states and using states in
 ######  Month 1 Week 4:
 ###### Hooks in React 
 
-[Mr Desmond](https://github.com/nyamador/) and [Mr Oluwasetemi](https://github.com/Oluwasetemi) further use a little counter game of incrementing and decremeting to explain some basic react concepts, which includes the useState hook, useEffect and so on, further docs below
-[useEffect](https://reactjs.org/docs/hooks-effect.html)
+[Mr Desmond](https://github.com/nyamador/) and [Mr Oluwasetemi](https://github.com/Oluwasetemi) further use a little counter game of incrementing and decremeting to explain some basic react concepts, which includes the useState hook, useEffect and so on, docs below for further explanation
+[useEffect Hook](https://reactjs.org/docs/hooks-effect.html)
 
-[Mr Setemi](https://github.com/Oluwasetemi) further focuses on creating and using custom hooks in react with code examples
+[Mr Setemi](https://github.com/Oluwasetemi) contd to focuses on creating and using custom hooks in react with code examples
 [find code here](https://replit.com/@Oluwasetemi/understanding-usefetch?v=1#src/App.jsx)
 
 ######  Month 2 Week 1:
@@ -49,7 +49,7 @@ He went further to explain importing and using with the elements that are provid
 
 [The doc he was using in class](https://reactrouter.com/en/main)
 
-**he further hooks provided by the third party router**
+**he further hooks provided by the third party router** <br/>
 He explained with code example the following
 - useLocation 
 - useParams 
@@ -63,7 +63,7 @@ further link he shared, Input valid github account name
 [see here](https://stackblitz.com/edit/vitejs-vite-fdk26g?file=src%2FApp.jsx)
 
 
- **further explanations he made in the last class includes **
+ **further explanations he made in the last class includes ** <br/>
   - composition vs inheritance using `props.children` and managing layouts in our Application-
 
 [find doc and code examples here](https://reactjs.org/docs/composition-vs-inheritance.html)
@@ -71,7 +71,8 @@ further link he shared, Input valid github account name
 
 ######  Getting Started with this Repo
 
-Fork the project to a new repositery
+Fork the project to a new repositery<br/>
+clone the repo on your terminal
 
 cd to the project directory
 `code .` to open in your vscode
